@@ -1,0 +1,38 @@
+AVG WORD LEN;Equal variances assumed;0.00000000004206818252690236
+AVG WORD LEN;Equal variances not assumed;0.00000000000012910384498451907
+wir_etc_ratio;Equal variances assumed;0.13673131857081045
+wir_etc_ratio;Equal variances not assumed;0.12350267686377747
+du_etc_ratio;Equal variances assumed;0.00000000000000000000000008277661799930707
+du_etc_ratio;Equal variances not assumed;0.000000000000000000028278237374981434
+ich_etc_ratio;Equal variances assumed;0.0000000000000000015310227172156532
+ich_etc_ratio;Equal variances not assumed;0.000000000000014346238595012533
+?_line_ratio;Equal variances assumed;0.14844430324164204
+?_line_ratio;Equal variances not assumed;0.025441931205679006
+word_line_ratio;Equal variances assumed;0.4789913945256261
+word_line_ratio;Equal variances not assumed;0.5845949130907435
+negativWords_ratio;Equal variances assumed;0.4694392549135158
+negativWords_ratio;Equal variances not assumed;0.48562604740360094
+positiveWords_ratio;Equal variances assumed;0.0016062817786548966
+positiveWords_ratio;Equal variances not assumed;0.0008643830482875328
+adjective_ratio;Equal variances assumed;0.2852490495497986
+adjective_ratio;Equal variances not assumed;0.26483949081269353
+distinct_ratio;Equal variances assumed;0.00000000299364291654538
+distinct_ratio;Equal variances not assumed;0.0000000019435035614852953
+men_likely_adjectives_ratio_all_time;Equal variances assumed;0.0034115053836278673
+men_likely_adjectives_ratio_all_time;Equal variances not assumed;0.00008455703386128603
+women_likely_adjectives_ratio_all_time;Equal variances assumed;0.000002218449337518648
+women_likely_adjectives_ratio_all_time;Equal variances not assumed;0.0011412917487800946
+noun_ratio;Equal variances assumed;0.00000000000000000000000000000000000000017428348939299606
+noun_ratio;Equal variances not assumed;0.00000000000000000000000000000000000000000000000065103800807207156
+men_likely_nouns_ratio_all_time;Equal variances assumed;0.00000000000007241138670233793
+men_likely_nouns_ratio_all_time;Equal variances not assumed;0.00000000000000000000015635918152727413
+women_likely_nouns_ratio_all_time;Equal variances assumed;0.000000000012976242288652322
+women_likely_nouns_ratio_all_time;Equal variances not assumed;0.00000016648929604628703
+verbs_ratio;Equal variances assumed;0.00042843516482491973
+verbs_ratio;Equal variances not assumed;0.0007146854909161747
+men_likely_verbs_ratio_all_time;Equal variances assumed;0.006104952507081985
+men_likely_verbs_ratio_all_time;Equal variances not assumed;0.004056741038670365
+women_likely_verbs_ratio_all_time;Equal variances assumed;0.0000000006868487454868864
+women_likely_verbs_ratio_all_time;Equal variances not assumed;0.000000021772245033131608
+PRONOMEN;Equal variances assumed;0.000000000000000000000000000000000000001627645755697527
+PRONOMEN;Equal variances not assumed;0.0000000000000000000000000000000024883176165382663
